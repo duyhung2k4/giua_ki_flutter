@@ -101,7 +101,6 @@ class CreateStudentScreen extends HookWidget {
                       hintText: 'Nhập tên lớp',
                       errorText: classNameError.value,
                     ),
-                    maxLines: 3,
                   ),
                   SizedBox(height: 16.0.sp),
                   TextField(

@@ -72,7 +72,6 @@ class DetailStudentScreen extends HookWidget {
                     decoration: InputDecoration(
                       labelText: "Mã sinh viên",
                     ),
-                    maxLines: 3,
                   ),
                   // sb1
                   SizedBox(height: 16.0.sp),
